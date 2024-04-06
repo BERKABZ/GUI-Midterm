@@ -760,7 +760,11 @@ a{
         border: 5px solid black;
     }
     
-    
+    .m1{
+        margin-top: 1.5%;
+        margin-right: 10%;
+        font-size: 30px;
+    } 
     
     
     
