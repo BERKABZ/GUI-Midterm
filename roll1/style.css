@@ -1,0 +1,60 @@
+
+body{
+    background-attachment: fixed;
+    background-image: url('../RollImages/Untitled design (2).png');
+    background-size:cover;
+}
+.one{
+    position: absolute;
+    background-color: rgba(255, 49, 49, 1);
+    height: 700px;
+    border-radius: 50px;
+    margin-left:35%;
+    
+    width: 500px;
+    border: 4px solid black;
+}
+
+img{
+    margin-left: 20%;
+    justify-content: center;
+    width: 300px;
+}
+.btn{
+    margin-top: 95%;
+    position: absolute;
+    background: linear-gradient(90deg, rgba(255, 49, 49, 1) 6%, rgba(255, 145, 77, 1) 89%);
+    text-align: center;
+    margin-left: 25%;
+    border: 1px solid black;
+    border-radius: 20px;
+    width:250px;
+}
+h1{
+    margin-left: 30%;
+    position: absolute;
+    margin-top: 90px;
+    text-align: center;
+    text-decoration: underline;
+}
+h2{  
+    margin-top: 75%;
+    position: absolute;
+    font-size: 30px;
+    margin-left: 20%;
+    text-align: center;
+
+}
+.one img{
+    position: absolute;
+    margin-left: 16%;
+    width: 330px;
+    position: absolute;
+    margin-top: 15%;
+}
+.bck img{
+    margin-left: 10px;
+    margin: 0;
+    margin-top: 5px;
+    width: 50px;
+}

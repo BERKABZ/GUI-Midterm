@@ -1,0 +1,87 @@
+body{
+    background: linear-gradient(90deg, rgba(255, 49, 49, 1) 6%, rgba(255, 145, 77, 1) 89%);
+    
+    width: 90vw; /* Set the width of the grid to viewport width */
+    height: 90vh;
+}
+
+.grid-container1 {
+    display: flex;
+    gap: 0;
+
+
+}
+.grid-container2 {
+    display: flex;
+    margin-top: 234px;
+}
+.grid-container3 {
+    display: flex;
+    margin-top:234px;
+}
+
+.whole{
+    margin-bottom: 2%;
+    width: 100%;
+}
+
+
+.grid-item1 {
+    margin-left: 5px;
+    margin-top: 1px;
+    width: 45%; 
+    height:23%;
+    display: flex;
+    position: absolute;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+.grid-item2 {
+    margin-top: 1px;
+    width: 48%; 
+    height:23%;
+    margin-left:790px;
+    display: flex;
+    position: absolute;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: underline;
+}
+img{
+    position: absolute;
+    justify-content: center;
+    width:190px;
+    margin-left: 20%;
+}
+.h2{
+    color: black;
+    font-size: 25px;
+    justify-content: center;
+    display: flex;
+    margin-left: 55%;
+    margin-top: 10%;
+}
+h3{
+    font-size: 25px;
+    justify-content: center;
+    display: flex;
+    margin-left: 60%;
+    margin-top: 10%;
+
+}
+.bck img{
+    margin-left: 10px;
+    margin: 0;
+    margin-top: 5px;
+    width: 50px;
+}
