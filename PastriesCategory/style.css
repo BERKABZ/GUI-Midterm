@@ -13,11 +13,11 @@ body{
 }
 .grid-container2 {
     display: flex;
-    margin-top: 234px;
+    margin-top: 15.2%;
 }
 .grid-container3 {
     display: flex;
-    margin-top:234px;
+    margin-top:15.2%;
 }
 
 .whole{
@@ -42,7 +42,7 @@ body{
     margin-top: 1px;
     width: 48%; 
     height:23%;
-    margin-left:790px;
+    margin-left:47.4%;
     display: flex;
     position: absolute;
     border: 2px solid black;
@@ -60,7 +60,7 @@ h1{
 img{
     position: absolute;
     justify-content: center;
-    width:190px;
+    width:250px;
     margin-left: 20%;
 }
 .h2{

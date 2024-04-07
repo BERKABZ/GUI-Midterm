@@ -6,10 +6,10 @@
 
 body {
     background-image: url('../SpecialityImage/Untitled design (6).png');
-    background-size: cover; /* Cover the entire background */
-    background-position: center; /* Center the background image */
-    background-repeat: no-repeat; /* Do not repeat the background image */
-  height: 100vh;
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+   height: 100vh;
 }
 
 h1 {
@@ -95,13 +95,13 @@ h1 {
 
 .box {
     text-align: center;
-    margin-left: 300px;
+    margin-left: 400px;
     gap: 50px;
     display: flex;
 }
 
 .box1 {
-    margin-left: 500px;
+    margin-left: 600px;
     gap: 50px;
     display: flex;
 }

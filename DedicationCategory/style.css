@@ -13,21 +13,18 @@ body{
 }
 .grid-container2 {
     display: flex;
-    margin-top: 234px;
+    margin-top: 15.1%;
 }
 .grid-container3 {
     display: flex;
-    margin-top:234px;
+    margin-top:15.2%;
 }
 
-.whole{
-    margin-bottom: 2%;
-    width: 100%;
-}
+ 
 
 
 .grid-item1 {
-    margin-left: 5px;
+    margin-left: 20px;
     margin-top: 1px;
     width: 45%; 
     height:23%;
@@ -42,7 +39,7 @@ body{
     margin-top: 1px;
     width: 48%; 
     height:23%;
-    margin-left:790px;
+    margin-left:48.1%;
     display: flex;
     position: absolute;
     border: 2px solid black;
@@ -60,7 +57,7 @@ h1{
 img{
     position: absolute;
     justify-content: center;
-    width:190px;
+    width:260px;
     margin-left: 20%;
 }
 .h2{
